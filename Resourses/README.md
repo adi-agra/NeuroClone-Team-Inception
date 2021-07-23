@@ -1,7 +1,7 @@
 Here’s a guide on how to start working with our project.
 
 DL Assignments : 
-In order to apply concepts of deep learning and start work on EEG signal processing , it is important to complete the assignments from … whose solutions are enclosed. 
+In order to apply concepts of deep learning and start work on EEG signal processing , it is important to complete these assignments whose solutions are enclosed. 
 
 EEG :
 Here are some resources compiled in one place to start with zero understanding upto near to advanced level of understanding about EEG signals and BCI ( Brain Computer Interface)  
